@@ -9,5 +9,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        System.out.println("seven");
+        if(0 ==1){
+            System.out.println("true");
+        }else{
+            System.out.println("false");
+        }
     }
 }
