@@ -10,16 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("seven");
-        if(0 ==1){
-            System.out.println("true");
-        }else{
-            System.out.println("false");
-        }
-        for(int i = 0 ;i < 10; i++){
-            System.out.println("i"+i);
-            System.out.println("i"+i + 1);
-            System.gc();
 
-        }
     }
 }
