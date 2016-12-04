@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("seven");
         String sdf = "afdasdfsafas";
 
+        String str = "seven";
+
     }
 }
