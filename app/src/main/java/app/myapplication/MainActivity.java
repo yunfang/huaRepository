@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         for(int i = 0 ;i < 10; i++){
             System.out.println("i"+i);
             System.out.println("i"+i + 1);
+            System.gc();
 
         }
     }
