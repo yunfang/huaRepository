@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/huaRepository.iml" filepath="$PROJECT_DIR$/huaRepository.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mylibrary2/mylibrary2.iml" filepath="$PROJECT_DIR$/mylibrary2/mylibrary2.iml" />
     </modules>
   </component>
 </project>
